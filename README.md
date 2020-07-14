@@ -8,6 +8,8 @@
   * Go to File / new notebook (Sign into a google account if you haven't already).
   * Copy and Paste the code into the document.
   * Lastly press the run section button next to where you've inserted the code.
+
+The code does take some time to completely finish running be patient :smile:
   
 
 
