@@ -1,4 +1,4 @@
-# CNN-image-recognition #
+# CNN-image-recognition-with-tensorflow #
 
 ## Setup ##
 
